@@ -7,7 +7,7 @@ In this chapter, we start form creating an initial demo
 application to exploring the some commonly used GTK+ widgets.
 
 ## Initial demo
-The most simple Gtk application will not like the code below;
+The most simple GTK+ application will not like the code below;
 
 ```vala
 int main(string [] args) {
