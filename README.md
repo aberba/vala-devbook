@@ -1,22 +1,21 @@
-# Gtk+ Vala devbook
+# Vala Devbook
 
-![Gtk+ Vala devbook](images/demo-code.png)
+![Vala Devbook](images/demo-code.png)
 
-Welcome to an unofficial guide to help you learn the `Gtk+` Graphical User Interface (GUI) using the `vala` programming language. It is **NOT* meant as a resource for learning the vala programming language but to help you use your existing knowledge in vala develop Gtk+ GUI applications. 
+This book will help you learn the `Vala` programming language popularly used for `Gtk+` GUI development. It is **NOT* meant as a resource for learning computer programming as a complete beginner. It is written to help you use your existing programming knowledge to learn Vala for GTK+ GUI applications. 
 
-You can learn vala programming [here](vala.com) if you are new to it. 
+> If you are new to computer programming, see [Learn Coding](https://github.com/aberba/learn-coding), a book for absolute beginners to learn computer programming. 
 
-This guide is development is developed with independently and it is **NOT** associated with the [Gnome Project](developer.gnome.org) in any way.
+> See also the [elementary OS Devbook](https://github.com/aberba/elementaryOS-devbook) to learn how to develop applications for [elementary OS](https://elementary.io) using Vala. 
 
 
 ## Contents
 
-* Chapter One: Introduction to tools and resources
-    - [x] Development Resources
-    - [ ] Learning resources
-    - [ ] Setting up your development environment.
+* Chapter One: The Basics
+    - [x] Setting up your development environment.
+...
 
-* Chapter Two: Using Gtk+
+* Chapter Three: Using Gtk+
     - [ ] Initial demo application
     - [ ] Exploring Gtk widgets
     - [ ] Gtk signals
